@@ -4,7 +4,7 @@ This is a simple GUI-based chatting application.
 (make sure you've installed python 3 and cloned this repository to your computer)
 
 ## How to use
-1. Change the Host IP adress to your local IP (IPv4)
+1. Change the Host IP address to your local IP (IPv4)
 2. Change the Port based on the Server Port number
 3. Open terminal
 4. Run `server.py`
